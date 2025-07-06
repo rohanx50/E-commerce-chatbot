@@ -1,2 +1,2 @@
 # E-commerce-chatbot
-chatbot for flipkart when you can get your queries answered
+chatbot for flipkart where you can get your queries answered
